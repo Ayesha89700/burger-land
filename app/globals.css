@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .clip_path {
+        clip-path: polygon(50% 0%, 100% 1%, 100% 85%, 49% 100%, 0 86%, 0% 60%, 0 1%);
+    
+    
+    }
+    .heading {
+        @apply text-[30px] md:text-[35px] lg:text-[45px] xl:text-[50px] font-bold text-gray-900;
+        @apply md:leading-[4rem] leading-[3rem] text-center;
+    }
+    .text-highlight {
+        @apply text-yellow-400 font-semibold;
+    }
+    
+    
+
+}
