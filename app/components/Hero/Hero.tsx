@@ -6,8 +6,8 @@
 import React from 'react'
 import Carousel from 'react-multi-carousel';
 import 'react-multi-carousel/lib/styles.css';
-import BurgerImg1 from "@/public/Images/b1.png";
-import BurgerImg2 from "@/public/Images/b2.png";
+import BurgerImg1 from "@/public/Images/hero/b1.png";
+import BurgerImg2 from "@/public/Images/hero/b2.png";
 import Image from 'next/image';
 import { BiCycling } from 'react-icons/bi';
 

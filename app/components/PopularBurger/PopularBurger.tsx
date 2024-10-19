@@ -59,55 +59,55 @@ export const PopularBurger = () => (
 
                 <BurgerCard 
                 title="Beefy Bite"
-                image="./images/b1.png"
+                image="/images/burger card/b1.png"
                 reviews="6"
                 price="PKR 800" />
 
                 <BurgerCard 
                 title="Nucker Beef"
-                image="/images/b2.png"
+                image="/images/burger card/b2.png"
                 reviews="5"
                 price="PKR 750" />
                
                <BurgerCard 
                 title="Chapli Beef Burger"
-                image="/images/b3.png"
+                image="/images/burger card/b3.png"
                 reviews="5"
                 price="PKR 600" />
 
               <BurgerCard 
                 title="Double Bango"
-                image="/images/b4.png"
+                image="/images/burger card/b4.png"
                 reviews="5"
                 price="PKR 900" />
 
                <BurgerCard 
                 title="Chapli TWist"
-                image="/images/b5.png"
+                image="/images/burger card/b5.png"
                 reviews="6"
                 price="PKR 500" />
 
                <BurgerCard 
                 title="Fiery bang"
-                image="/images/b6.png"
+                image="/images/burger card/b6.png"
                 reviews="6"
                 price="PKR 400" />
 
               <BurgerCard 
                 title="Red Bull Burger"
-                image="/images/b7.png"
+                image="/images/burger card/b7.png"
                 reviews="6"
                 price="PKR 300" />
 
                <BurgerCard 
                 title="Beefy Bite"
-                image="/images/b8.png"
+                image="/images/burger card/b8.png"
                 reviews="6"
                 price="PKR 830" />
 
                <BurgerCard 
                 title="Quadra Burger"
-                image="/images/b9.png"
+                image="/images/burger card/b9.png"
                 reviews="6"
                 price="PKR 560" />
             </Carousel>

@@ -13,7 +13,7 @@ export const Team = () => {
            data-aos-anchor-placement="top-center">
             
             <TeamCard 
-            image="/images/t1.jpg"
+            image="/images/team card/t1.jpg"
              name="jhanzaib Ali"
              position="kitchen Porter" />
              </div>
@@ -23,7 +23,7 @@ export const Team = () => {
            data-aos-delay="300">
 
             <TeamCard
-             image="/images/t2.jpg" 
+             image="/images/team card/t2.jpg" 
              name="Alisha Khan" 
              position="Executive Chef" />
 
@@ -34,7 +34,7 @@ export const Team = () => {
            data-aos-delay="600">
 
             <TeamCard 
-             image="/images/t3.jpg" 
+             image="/images/team card/t3.jpg" 
              name="shazaib khan"
               position="kitchen Porter"/>
             </div>

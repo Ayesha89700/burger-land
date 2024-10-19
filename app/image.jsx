@@ -1,3 +1,4 @@
 import Image from 'next/image';
 
-<Image src="/images/b1.png" alt="images"  />
+<Image src="/b1.png" alt="Image description" width={500} height={300} />
+
